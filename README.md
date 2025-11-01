@@ -8,6 +8,8 @@
 - [iCloud Link](https://www.icloud.com/shortcuts/31707891c3ec4a2197c3b702b378820f)
 - [File](./พร้อมเพย์.shortcut)
 
+# Inspiration
+โปรเจคนี้ได้รับแรงบันดาลใจจาก [คริปของคุณ Phu thitipong](https://www.tiktok.com/@thitipongkitkla/video/7523940473778588936) ต้นฉบับได้ใช้รูปภาพจากเว็ปไซต์ promptpay.io จึงต้องใช้ Internet ในการเข้าถึงแต่โปรเจคนี้ได้ทำการแปลงข้อมูลและทำให้สามารถใช้ได้ด้วยการสร้าง QR Code ภายในอุปกรณ์
 
 ## Preview
 ![Image](./images/1.png)
