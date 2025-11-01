@@ -3,3 +3,4 @@
 
 ## Installation
 - [iCloud Link](https://www.icloud.com/shortcuts/31707891c3ec4a2197c3b702b378820f)
+- [File](./พร้อมเพย์.shortcut)
